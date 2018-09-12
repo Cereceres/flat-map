@@ -1,0 +1,23 @@
+{
+  "name": "flat-map",
+  "version": "1.0.0",
+  "description": "flat map algorithm like scala",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/flat-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/flat-map/issues"
+  },
+  "homepage": "https://github.com/Cereceres/flat-map#readme",
+  "dependencies": {
+    "flattenarray-node": "^1.0.0"
+  }
+}
